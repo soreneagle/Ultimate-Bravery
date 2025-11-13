@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .env
 __pycache__
+=======
+.env
+>>>>>>> 877d0fa (added discord api conneectivity and built the main functionality for the bot)
