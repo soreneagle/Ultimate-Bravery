@@ -88,6 +88,7 @@ class UltimateBravery:
                 except Exception as e:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     await message.channel.send(f"Failed to Generate Perks. {e}")
 =======
                     await message.channel.send(f"Failed to Generate Perks.")
@@ -95,6 +96,9 @@ class UltimateBravery:
 =======
                     await message.channel.send(f"Failed to Generate Perks. {e}")
 >>>>>>> 0415132 (Merge Discord-Bot changes)
+=======
+                    await message.channel.send(f"Failed to Generate Perks. {e}")
+>>>>>>> da75fbd (small update)
 
     def run(self):
         try:
