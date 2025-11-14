@@ -34,6 +34,7 @@ class UltimateBravery:
     def get_perks(self):
         killer_perks = []
         survivor_perks = []
+        maps = []
 
         with open ("killer.txt", "r") as file:
             for line in file:
@@ -44,6 +45,11 @@ class UltimateBravery:
             for line in file:
                     clean_line = line.strip("\n")
                     survivor_perks.append(clean_line)
+
+        with open ("maps.txt", "r") as file:
+            for line in file:
+                    clean_line = line.strip("\n")
+                    maps.append(clean_line)
 
         message = ""
 
@@ -62,11 +68,14 @@ class UltimateBravery:
         message += f"  • {k_perks[2]}\n"
         message += f"  • {k_perks[3]}\n\n"
 
-        items = ["Medkit", "Flashlight", "Firecracker", "Keys", "Maps", "Toolboxes", "Fog Vials"]
+        items = ["Medkit", "Flashlight", "Keys", "Maps", "Toolboxes", "Fog Vials"]
         banned_item = random.choice(items)
-
         message += f"**Banned Item:**\n"
-        message += f"  • {banned_item}"
+        message += f"  • {banned_item}\n\n"
+
+        map_choice = random.choice(maps)
+        message +=  "**Random Map:**\n"
+        message += f"  • {map_choice}"
 
         return message
 
