@@ -4,15 +4,17 @@ Alien Instinct
 All-Shaking Thunder
 Awakened Awareness
 Bamboozle
-Barbecue & Chilli
+Barbecue & Chili
 Batteries Included
 Beast of Prey
 Bitter Murmur
 Blood Echo
+Blood Favor
 Blood Warden
 Bloodhound
 Brutal Strength
 Call of Brine
+Claustrophobia
 Corrupt Intervention
 Coulrophobia
 Coup de Grâce
@@ -21,6 +23,7 @@ Dark Arrogance
 Dark Devotion
 Darkness Revealed
 Dead Man's Switch
+Deadlock
 Deathbound
 Deerstalker
 Discordance
@@ -42,9 +45,10 @@ Game Afoot
 Gearhead
 Genetic Limits
 Grim Embrace
+Hangman's Trick
 Haywire
 Help Wanted
-Hex: Blood Favour
+Hex: Blood Favor
 Hex: Crowd Control
 Hex: Devour Hope
 Hex: Face the Darkness
@@ -99,7 +103,7 @@ Rapid Brutality
 Remember Me
 Save the Best for Last
 Scourge Hook: Floods of Rage
-Scourge Hook: Hangman's Trick
+Scourge Hook: Gift of Pain
 Scourge Hook: Jagged Compass
 Scourge Hook: Monstrous Shrine
 Scourge Hook: Pain Resonance

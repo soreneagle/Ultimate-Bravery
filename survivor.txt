@@ -5,12 +5,11 @@ Alert
 Any Means Necessary
 Appraisal
 Autodidact
-Babysitter
 Background Player
 Balanced Landing
 Bardic Inspiration
+Better Than New
 Better Together
-Better than New
 Bite the Bullet
 Blast Mine
 Blood Pact
@@ -31,9 +30,8 @@ Built to Last
 Calm Spirit
 Camaraderie
 Champion of Light
-Chemical Trap
+Chem Trap
 Clairvoyance
-Clean Break
 Corrective Action
 Counterforce
 Cut Loose
@@ -46,13 +44,12 @@ Decisive Strike
 Déjà Vu
 Deliverance
 Desperate Measures
-Detective's Hunch
+Detective’s Hunch
 Distortion
 Diversion
 Dramaturgy
 Empathic Connection
 Empathy
-Exultation
 Eyes of Belmont
 Fast Track
 Finesse
@@ -62,16 +59,17 @@ Flip-Flop
 Fogwise
 For the People
 Friendly Competition
+Guardian
 Hardened
 Head On
 Hope
 Hyperfocus
 Inner Focus
-Inner Strength
-Invocation: Treacherous Crows
+Inner Healing
 Invocation: Weaving Spiders
 Iron Will
 Kindred
+Kinship
 Leader
 Left Behind
 Light-Footed
@@ -93,8 +91,8 @@ Overcome
 Overzealous
 Parental Guidance
 Pharmacy
+Plunderer’s Instinct
 Plot Twist
-Plunderer's Instinct
 Poised
 Potential Energy
 Power Struggle
@@ -103,8 +101,9 @@ Prove Thyself
 Quick & Quiet
 Quick Gambit
 Reactive Healing
-Reassurance
 Red Herring
+Renewal
+Reassurance
 Repressed Alliance
 Residual Manifest
 Resilience
@@ -114,25 +113,25 @@ Saboteur
 Scavenger
 Scene Partner
 Second Wind
+Self-Aware
 Self-Care
 Self-Preservation
-Shoulder the Burden
+Situational Awareness
 Slippery Meat
 Small Game
 Smash Hit
 Sole Survivor
 Solidarity
 Soul Guard
-Specialist
 Spine Chill
 Sprint Burst
 Stake Out
 Still Sight
 Streetwise
 Strength in Shadows
+Technician
 Teamwork: Collective Stealth
 Teamwork: Power of Two
-Technician
 Tenacity
 This Is Not Happening
 Troubleshooter
@@ -142,16 +141,8 @@ Urban Evasion
 Vigil
 Visionary
 Wake Up!
-We'll Make It
-We're Gonna Live Forever
+We’ll Make It
+We’re Gonna Live Forever
 Wicked
 Windows of Opportunity
 Wiretap
-Reassurance
-Red Herring
-Repressed Alliance
-Residual Manifest
-Resilience
-Resurgence
-Rookie Spirit
-Saboteur
